@@ -19,10 +19,9 @@ Bu REST servisi aşağıdaki HTTP istekleriyle kullanılabilir:
 - **PUT /edit/{id}**: Mevcut bir çalışanı günceller.
 - **DELETE /remove/{id}**: Belirli bir faturayı siler.
 - **DELETE /remove/{id}**: Belirli bir çalışanı siler.
-Her istek json formatında veri alır ve döndürür
+- Her istek json formatında veri alır ve döndürür
 
-- ## Ekran Görüntüleri
-- 
+
 
 
 
