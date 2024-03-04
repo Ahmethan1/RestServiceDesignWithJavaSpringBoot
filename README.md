@@ -22,7 +22,8 @@ Bu REST servisi aşağıdaki HTTP istekleriyle kullanılabilir:
 - Her istek json formatında veri alır ve döndürür
 
 - ## Ekran Görüntüleri
-![F0BD2604-D4D2-41EF-8DC3-09E09C23993D](https://github.com/Ahmethan1/RestServiceDesignWithJavaSpringBoot/assets/62026273/5136c825-9798-4ff9-9f7b-735f36260219)
+
+![F0BD2604-D4D2-41EF-8DC3-09E09C23993D_1_201_a](https://github.com/Ahmethan1/RestServiceDesignWithJavaSpringBoot/assets/62026273/a7c3feb7-946d-4ff7-90be-059760aa7b13)
 
 
 
