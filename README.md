@@ -20,3 +20,10 @@ Bu REST servisi aşağıdaki HTTP istekleriyle kullanılabilir:
 - **DELETE /remove/{id}**: Belirli bir faturayı siler.
 - **DELETE /remove/{id}**: Belirli bir çalışanı siler.
 Her istek json formatında veri alır ve döndürür
+
+- ## Ekran Görüntüleri
+- 
+
+
+
+
