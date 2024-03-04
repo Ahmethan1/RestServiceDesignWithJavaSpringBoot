@@ -26,6 +26,8 @@ Bu REST servisi aşağıdaki HTTP istekleriyle kullanılabilir:
 
 ![F0BD2604-D4D2-41EF-8DC3-09E09C23993D_1_201_a](https://github.com/Ahmethan1/RestServiceDesignWithJavaSpringBoot/assets/62026273/a7c3feb7-946d-4ff7-90be-059760aa7b13)
 
+-Projeye Entegre edilen swagger ekran çıktısı paylaşılmıştır
 
+![46AD9273-3BC3-4E4B-B3E3-AB6B033D987F_1_201_a](https://github.com/Ahmethan1/RestServiceDesignWithJavaSpringBoot/assets/62026273/50c807ae-fe46-4ab2-b814-c0bdab8e2154)
 
 
