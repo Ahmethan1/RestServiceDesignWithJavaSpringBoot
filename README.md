@@ -1,12 +1,10 @@
 # RestServiceDesignWithJavaSpringBoot
 Java spring boot kullanarak fatura kayıt sistemi için Rest service tasarımı
-Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş bir fatura takip sistemi REST servisini içerir. Bu servis, fatura oluşturma, güncelleme, silme ve listeleme gibi temel CRUD (Create, Read, Update, Delete) işlemlerini destekler.
+Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş bir fatura takip sistemi REST servisini içerir. Bu servis, fatura oluşturma, güncelleme, silme ve listeleme gibi temel CRUD (Create, Read, Update, Delete) işlemlerini destekler. Projede veri tabanı olarak PostgreSql kullanılmıştır. Ayrıca sunucuya istek atmak ve dönen cevapları anında görebilmek için projeye Postman ve Swagger teknolojileri entegre edilmiştir. Derleyici olarak intellij IDEA kullanılmıştır
 
 ### Gereksinimler
 - Java Development Kit (JDK) 17 veya üzeri
-- Maven 3.x veya üzeri
 - Bir IDE (Integrated Development Environment) (örneğin, IntelliJ IDEA, Eclipse)
-
 - Gereksinimler sağlandıktan sonra tarayıcınızda `http://localhost:8080` adresine giderek servisin çalışıp çalışmadığını kontrol edebilirsiniz.
 
 - ## Kullanım
